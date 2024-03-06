@@ -1,3 +1,5 @@
+[![Go](https://github.com/sunil-vsco/go-testing-examples/actions/workflows/go-tests.yml/badge.svg?event=push)](https://github.com/sunil-vsco/go-testing-examples/actions/workflows/go-tests.yml)
+
 # Golang testing examples
 
 This repositories illustrates some examples of creating unit tests in Golang using the Testify library.
