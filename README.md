@@ -2,7 +2,7 @@
 
 # Golang testing examples
 
-This repositories illustrates some examples of creating unit tests in Golang using the Testify library
+This repositories illustrates some examples of creating unit tests in Golang using the Testify library.
 
 All tests can be run by executing `make test`. 
 
